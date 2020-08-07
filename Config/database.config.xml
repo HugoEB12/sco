@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<database type="mysql">
+  <connection>
+  	<!-- HOST OF THE DATABASE SERVER CAN BE "localhost" OR A SPECIFIC IP / DOMAIN NAME (DNS) -->
+  	<host>localhost</host>
+    <!-- NAME OF DATABASE-->
+    <name>codisopt_sco</name>
+  	<!-- USER TO CONNECT WITH DATABASE-->
+  	<user>codisopt_mpios</user>
+  	<!-- PASSWORD -->
+  	<password>Berlin2019.-</password>
+  </connection>
+</database>

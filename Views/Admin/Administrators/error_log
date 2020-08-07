@@ -1,0 +1,131 @@
+[08-May-2020 14:43:36 America/Chicago] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;../Config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 14:43:36 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 14:43:36 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 14:43:36 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 14:43:36 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 14:43:36 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 14:43:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php:120
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php(34): AdminModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/AdminController.php(15): AdminModel->__construct(true, 'index.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php(38): AdminController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php on line 120
+[08-May-2020 15:01:54 America/Chicago] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;../Config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 15:01:54 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 15:01:54 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 15:01:54 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 15:01:54 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 15:01:54 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 15:01:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php:120
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php(34): AdminModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/AdminController.php(15): AdminModel->__construct(true, 'index.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php(38): AdminController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php on line 120
+[08-May-2020 15:02:23 America/Chicago] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;../Config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 15:02:23 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 15:02:23 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 15:02:23 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 15:02:23 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 15:02:23 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 15:02:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php:120
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php(34): AdminModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/AdminController.php(15): AdminModel->__construct(true, 'index.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php(38): AdminController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php on line 120
+[08-May-2020 15:02:47 America/Chicago] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;../Config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 15:02:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 15:02:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 15:02:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 15:02:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 15:02:47 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 15:02:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php:120
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php(34): AdminModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/AdminController.php(15): AdminModel->__construct(true, 'index.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php(38): AdminController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php on line 120
+[08-May-2020 15:02:51 America/Chicago] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;../Config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 15:02:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 15:02:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 15:02:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 15:02:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 15:02:51 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 15:02:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php:120
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php(34): AdminModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/AdminController.php(15): AdminModel->__construct(true, 'index.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php(38): AdminController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php on line 120
+[08-May-2020 15:03:04 America/Chicago] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;../Config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 15:03:04 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 15:03:04 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 15:03:04 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 15:03:04 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 15:03:04 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 15:03:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php:120
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php(34): AdminModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/AdminController.php(15): AdminModel->__construct(true, 'index.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php(38): AdminController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php on line 120
+[08-May-2020 15:03:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'AdminController' not found in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php on line 38
+[08-May-2020 15:04:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'AdminController' not found in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php on line 38
+[08-May-2020 15:05:06 America/Chicago] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;../Config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 15:05:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 15:05:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 15:05:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 15:05:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 15:05:06 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 15:05:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php:120
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php(34): AdminModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/AdminController.php(15): AdminModel->__construct(true, 'index.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php(38): AdminController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php on line 120
+[08-May-2020 15:05:11 America/Chicago] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;../Config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 15:05:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 15:05:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 15:05:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 15:05:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 15:05:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 15:05:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php:120
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php(34): AdminModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/AdminController.php(15): AdminModel->__construct(true, 'index.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php(38): AdminController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/AdminModel.php on line 120
+[08-May-2020 15:05:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'AdminController' not found in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php on line 38
+[08-May-2020 15:06:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'AdminController' not found in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php:38
+Stack trace:
+#0 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php on line 38
+[08-May-2020 15:09:41 America/Chicago] PHP Notice:  Undefined index: page in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php on line 97
+[08-May-2020 15:10:13 America/Chicago] PHP Notice:  Undefined index: page in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php on line 97
+[08-May-2020 15:11:47 America/Chicago] PHP Notice:  Undefined index: page in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php on line 97
+[08-May-2020 15:26:37 America/Chicago] PHP Notice:  Undefined index: page in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php on line 97
+[04-Jun-2020 00:17:27 America/Chicago] PHP Notice:  Undefined index: page in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php on line 97
+[04-Jun-2020 00:17:28 America/Chicago] PHP Notice:  Undefined index: page in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php on line 97
+[04-Jun-2020 00:17:43 America/Chicago] PHP Notice:  Undefined index: page in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php on line 97
+[05-Jul-2020 13:30:46 America/Chicago] PHP Notice:  Undefined index: page in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php on line 97
+[05-Jul-2020 15:21:28 America/Chicago] PHP Notice:  Undefined index: page in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php on line 97
+[13-Jul-2020 11:19:51 America/Chicago] PHP Notice:  Undefined index: page in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php on line 97
+[13-Jul-2020 11:20:07 America/Chicago] PHP Notice:  Undefined index: page in /home3/codisopt/public_html/hugos/SCO/Views/Admin/Administrators/index.php on line 97

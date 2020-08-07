@@ -1,0 +1,175 @@
+[08-May-2020 15:07:03 America/Mexico_City] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;../Config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 15:07:03 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 15:07:03 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 15:07:03 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 15:07:03 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 15:07:03 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 15:07:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php:200
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php(29): SubjectModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/SubjectController.php(15): SubjectModel->__construct(true, 'search.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Users/search.php(32): SubjectController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php on line 200
+[08-May-2020 15:07:08 America/Mexico_City] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;../Config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 15:07:08 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 15:07:08 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 15:07:08 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 15:07:08 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 15:07:08 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 15:07:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php:200
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php(29): SubjectModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/SubjectController.php(15): SubjectModel->__construct(true, 'search.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Users/search.php(32): SubjectController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php on line 200
+[08-May-2020 15:07:13 America/Mexico_City] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;../Config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 15:07:13 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 15:07:13 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 15:07:13 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 15:07:13 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 15:07:13 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 15:07:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php:200
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php(29): SubjectModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/SubjectController.php(15): SubjectModel->__construct(true, 'search.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Users/search.php(32): SubjectController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php on line 200
+[08-May-2020 15:07:17 America/Mexico_City] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;../Config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 15:07:17 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 15:07:17 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 15:07:17 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 15:07:17 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 15:07:17 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 15:07:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php:200
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php(29): SubjectModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/SubjectController.php(15): SubjectModel->__construct(true, 'search.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Users/search.php(32): SubjectController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php on line 200
+[08-May-2020 15:07:20 America/Mexico_City] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;../Config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 15:07:20 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 15:07:20 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 15:07:20 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 15:07:20 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 15:07:20 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 15:07:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php:200
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php(29): SubjectModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/SubjectController.php(15): SubjectModel->__construct(true, 'search.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Users/search.php(32): SubjectController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php on line 200
+[08-May-2020 15:07:24 America/Mexico_City] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;../Config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 15:07:24 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 15:07:24 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 15:07:24 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 15:07:24 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 15:07:24 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 15:07:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php:200
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php(29): SubjectModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/SubjectController.php(15): SubjectModel->__construct(true, 'search.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Users/search.php(32): SubjectController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php on line 200
+[08-May-2020 15:07:53 America/Mexico_City] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home3/codisopt/public_html/hugos/SCO/config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 15:07:53 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 15:07:53 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 15:07:53 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 15:07:53 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 15:07:53 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 15:07:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php:200
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php(29): SubjectModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/SubjectController.php(15): SubjectModel->__construct(true, 'search.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Users/search.php(32): SubjectController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php on line 200
+[08-May-2020 15:07:57 America/Mexico_City] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home3/codisopt/public_html/hugos/SCO/config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 15:07:57 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 15:07:57 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 15:07:57 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 15:07:57 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 15:07:57 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 15:07:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php:200
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php(29): SubjectModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/SubjectController.php(15): SubjectModel->__construct(true, 'search.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Users/search.php(32): SubjectController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php on line 200
+[08-May-2020 15:08:01 America/Mexico_City] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home3/codisopt/public_html/hugos/SCO/config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 15:08:01 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 15:08:01 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 15:08:01 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 15:08:01 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 15:08:01 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 15:08:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php:200
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php(29): SubjectModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/SubjectController.php(15): SubjectModel->__construct(true, 'search.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Users/search.php(32): SubjectController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/SubjectModel.php on line 200
+[10-May-2020 14:49:00 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[10-May-2020 14:49:00 America/Mexico_City] PHP Notice:  Undefined index: lname_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[10-May-2020 14:49:00 America/Mexico_City] PHP Notice:  Undefined index: token_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 48
+[10-May-2020 14:49:00 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Users/index.php on line 25
+[10-May-2020 14:49:43 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[10-May-2020 14:49:43 America/Mexico_City] PHP Notice:  Undefined index: lname_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[10-May-2020 14:49:43 America/Mexico_City] PHP Notice:  Undefined index: token_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 48
+[10-May-2020 14:49:43 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Users/index.php on line 25
+[10-May-2020 14:50:25 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[10-May-2020 14:50:25 America/Mexico_City] PHP Notice:  Undefined index: lname_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[10-May-2020 14:50:25 America/Mexico_City] PHP Notice:  Undefined index: token_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 48
+[10-May-2020 14:50:25 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Users/index.php on line 25
+[10-May-2020 14:51:07 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[10-May-2020 14:51:07 America/Mexico_City] PHP Notice:  Undefined index: lname_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[10-May-2020 14:51:07 America/Mexico_City] PHP Notice:  Undefined index: token_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 48
+[10-May-2020 14:51:07 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Users/index.php on line 25
+[10-May-2020 14:51:36 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[10-May-2020 14:51:36 America/Mexico_City] PHP Notice:  Undefined index: lname_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[10-May-2020 14:51:36 America/Mexico_City] PHP Notice:  Undefined index: token_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 48
+[10-May-2020 14:51:36 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Users/index.php on line 25
+[24-May-2020 19:13:53 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[24-May-2020 19:13:53 America/Mexico_City] PHP Notice:  Undefined index: lname_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[24-May-2020 19:13:53 America/Mexico_City] PHP Notice:  Undefined index: token_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 48
+[24-May-2020 19:13:53 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Users/index.php on line 25
+[27-May-2020 20:40:01 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[27-May-2020 20:40:01 America/Mexico_City] PHP Notice:  Undefined index: lname_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[27-May-2020 20:40:01 America/Mexico_City] PHP Notice:  Undefined index: token_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 48
+[27-May-2020 20:40:01 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Users/index.php on line 25
+[04-Jun-2020 00:17:10 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[04-Jun-2020 00:17:10 America/Mexico_City] PHP Notice:  Undefined index: lname_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[04-Jun-2020 00:17:10 America/Mexico_City] PHP Notice:  Undefined index: token_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 48
+[04-Jun-2020 00:17:10 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Users/index.php on line 25
+[04-Jun-2020 00:17:59 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[04-Jun-2020 00:17:59 America/Mexico_City] PHP Notice:  Undefined index: lname_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[04-Jun-2020 00:17:59 America/Mexico_City] PHP Notice:  Undefined index: token_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 48
+[04-Jun-2020 00:17:59 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Users/index.php on line 25
+[05-Jul-2020 13:26:10 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[05-Jul-2020 13:26:10 America/Mexico_City] PHP Notice:  Undefined index: lname_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[05-Jul-2020 13:26:10 America/Mexico_City] PHP Notice:  Undefined index: token_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 48
+[05-Jul-2020 13:26:10 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Users/index.php on line 25
+[05-Jul-2020 15:20:25 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[05-Jul-2020 15:20:25 America/Mexico_City] PHP Notice:  Undefined index: lname_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[05-Jul-2020 15:20:25 America/Mexico_City] PHP Notice:  Undefined index: token_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 48
+[05-Jul-2020 15:20:25 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Users/index.php on line 25
+[13-Jul-2020 10:28:40 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[13-Jul-2020 10:28:40 America/Mexico_City] PHP Notice:  Undefined index: lname_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[13-Jul-2020 10:28:40 America/Mexico_City] PHP Notice:  Undefined index: token_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 48
+[13-Jul-2020 10:28:40 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Users/index.php on line 25
+[15-Jul-2020 12:29:06 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[15-Jul-2020 12:29:06 America/Mexico_City] PHP Notice:  Undefined index: lname_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[15-Jul-2020 12:29:06 America/Mexico_City] PHP Notice:  Undefined index: token_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 48
+[15-Jul-2020 12:29:06 America/Mexico_City] PHP Notice:  Undefined index: dependency in /home3/codisopt/public_html/hugos/SCO/Views/Users/record.php on line 35
+[15-Jul-2020 12:29:06 America/Mexico_City] PHP Notice:  Undefined index: id_user in /home3/codisopt/public_html/hugos/SCO/Views/Users/record.php on line 36
+[16-Jul-2020 10:50:35 America/Mexico_City] PHP Notice:  Undefined index: name_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[16-Jul-2020 10:50:35 America/Mexico_City] PHP Notice:  Undefined index: lname_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 12
+[16-Jul-2020 10:50:35 America/Mexico_City] PHP Notice:  Undefined index: token_user in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Users/topbar.php on line 48
+[16-Jul-2020 10:50:35 America/Mexico_City] PHP Notice:  Undefined index: dependency in /home3/codisopt/public_html/hugos/SCO/Views/Users/record.php on line 35
+[16-Jul-2020 10:50:35 America/Mexico_City] PHP Notice:  Undefined index: id_user in /home3/codisopt/public_html/hugos/SCO/Views/Users/record.php on line 36

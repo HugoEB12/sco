@@ -1,0 +1,19 @@
+[20-Jul-2020 12:03:20 America/Chicago] PHP Notice:  Undefined index: name_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 13
+[20-Jul-2020 12:03:20 America/Chicago] PHP Notice:  Undefined index: lname_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 13
+[20-Jul-2020 12:03:20 America/Chicago] PHP Notice:  Undefined index: token_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 49
+[21-Jul-2020 12:52:17 America/Chicago] PHP Notice:  Undefined index: name_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 13
+[21-Jul-2020 12:52:17 America/Chicago] PHP Notice:  Undefined index: lname_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 13
+[21-Jul-2020 12:52:17 America/Chicago] PHP Notice:  Undefined index: token_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 49
+[21-Jul-2020 13:57:22 America/Chicago] PHP Notice:  A session had already been started - ignoring session_start() in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/verify_session.php on line 17
+[24-Jul-2020 13:27:58 America/Chicago] PHP Notice:  Undefined index: name_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 13
+[24-Jul-2020 13:27:58 America/Chicago] PHP Notice:  Undefined index: lname_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 13
+[24-Jul-2020 13:27:58 America/Chicago] PHP Notice:  Undefined index: token_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 49
+[27-Jul-2020 11:46:23 America/Chicago] PHP Notice:  Undefined index: name_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 13
+[27-Jul-2020 11:46:23 America/Chicago] PHP Notice:  Undefined index: lname_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 13
+[27-Jul-2020 11:46:23 America/Chicago] PHP Notice:  Undefined index: token_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 49
+[27-Jul-2020 12:24:30 America/Chicago] PHP Notice:  Undefined index: name_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 13
+[27-Jul-2020 12:24:30 America/Chicago] PHP Notice:  Undefined index: lname_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 13
+[27-Jul-2020 12:24:30 America/Chicago] PHP Notice:  Undefined index: token_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 49
+[28-Jul-2020 15:01:59 America/Chicago] PHP Notice:  Undefined index: name_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 13
+[28-Jul-2020 15:01:59 America/Chicago] PHP Notice:  Undefined index: lname_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 13
+[28-Jul-2020 15:01:59 America/Chicago] PHP Notice:  Undefined index: token_admin in /home3/codisopt/public_html/hugos/SCO/Views/Templates/UI-Components/Admin/topbar.php on line 49

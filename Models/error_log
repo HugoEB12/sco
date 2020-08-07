@@ -1,0 +1,1 @@
+[08-May-2020 14:39:28 America/Chicago] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;/home3/codisopt/public_html/hugos/SCO/config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 39

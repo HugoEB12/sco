@@ -1,0 +1,13 @@
+[08-May-2020 14:43:29 America/Chicago] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;../Config/database.config.xml&quot; in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 40
+[08-May-2020 14:43:29 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 41
+[08-May-2020 14:43:29 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 42
+[08-May-2020 14:43:29 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 43
+[08-May-2020 14:43:29 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 44
+[08-May-2020 14:43:29 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/codisopt/public_html/hugos/SCO/Models/ConnectionModel.php on line 45
+[08-May-2020 14:43:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/codisopt/public_html/hugos/SCO/Models/SRModel.php:92
+Stack trace:
+#0 /home3/codisopt/public_html/hugos/SCO/Models/SRModel.php(27): SRModel->getAllRows()
+#1 /home3/codisopt/public_html/hugos/SCO/Controllers/SRController.php(14): SRModel->__construct(true, 'index.php')
+#2 /home3/codisopt/public_html/hugos/SCO/Views/Admin/Employees/index.php(33): SRController->__construct()
+#3 {main}
+  thrown in /home3/codisopt/public_html/hugos/SCO/Models/SRModel.php on line 92
